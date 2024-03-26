@@ -35,3 +35,11 @@
 
 ![Screenshot 2024-03-27 043030](https://github.com/Tanay03Trivedi/Cloud-Watch/assets/160705084/e09ccdbf-475d-43fa-8c95-6c598479e210)
 
+### Run the program
+
+![Screenshot 2024-03-27 043744](https://github.com/Tanay03Trivedi/Cloud-Watch/assets/160705084/18a75f1e-49b6-4084-9231-eec56702257f)
+
+![Screenshot 2024-03-27 043803](https://github.com/Tanay03Trivedi/Cloud-Watch/assets/160705084/2b521802-6ec7-401d-94c4-90a36ea79a8b)
+
+![Screenshot 2024-03-27 043857](https://github.com/Tanay03Trivedi/Cloud-Watch/assets/160705084/f05ad2e5-4a00-4695-9e50-d30ea80fa1b2)
+
