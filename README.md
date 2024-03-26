@@ -1,2 +1,3 @@
 # Cloud-Watch
-using cloud-watch when cpu usage on ec2 instance surpass the limit
+using cloud-watch when CPU usage on the ec2 instance surpasses the limit
+## Create a EC2 Instance
