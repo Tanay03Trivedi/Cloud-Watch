@@ -24,3 +24,14 @@
 ### Give alarm name and description
 
 ![Screenshot 2024-03-27 041831](https://github.com/Tanay03Trivedi/Cloud-Watch/assets/160705084/a0e7a6ee-198c-409a-ac52-0e5067a7b2bb)
+
+### wait until alarm status is ok
+
+![Screenshot 2024-03-27 043326](https://github.com/Tanay03Trivedi/Cloud-Watch/assets/160705084/affbc8ab-f869-4c6e-a4ce-be53b6f854bb)
+
+## Open instance copy the python which increases the CPU usage
+
+![Screenshot 2024-03-27 042948](https://github.com/Tanay03Trivedi/Cloud-Watch/assets/160705084/3bea0b9e-ae09-4091-a63e-15f7c084d54d)
+
+![Screenshot 2024-03-27 043030](https://github.com/Tanay03Trivedi/Cloud-Watch/assets/160705084/e09ccdbf-475d-43fa-8c95-6c598479e210)
+
